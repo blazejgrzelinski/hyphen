@@ -10,7 +10,7 @@ namespace Hyphen.Sql
 {
     class ConnectionManager: IDisposable
     {
-        SqlConnection conn;
+        SqlConnection conn; 
 
         public SqlConnection Connection
         {
