@@ -1,0 +1,15 @@
+H:\Projekty\FLC\Hyphen\bin\Debug\Hyphen.dll
+H:\Projekty\FLC\Hyphen\bin\Debug\Hyphen.pdb
+H:\Projekty\FLC\Hyphen\obj\Debug\ResolveAssemblyReference.cache
+H:\Projekty\FLC\Hyphen\obj\Debug\Hyphen.dll
+H:\Projekty\FLC\Hyphen\obj\Debug\Hyphen.pdb
+D:\Projekty\FLC\Hyphen\bin\Debug\Hyphen.dll
+D:\Projekty\FLC\Hyphen\bin\Debug\Hyphen.pdb
+D:\Projekty\FLC\Hyphen\obj\Debug\Hyphen.dll
+D:\Projekty\FLC\Hyphen\obj\Debug\Hyphen.pdb
+D:\Projekty\FLC\Hyphen\obj\Debug\Hyphen.csprojResolveAssemblyReference.cache
+C:\Projects\Hyphen\bin\Debug\Hyphen.dll
+C:\Projects\Hyphen\bin\Debug\Hyphen.pdb
+C:\Projects\Hyphen\obj\Debug\Hyphen.dll
+C:\Projects\Hyphen\obj\Debug\Hyphen.pdb
+C:\Projects\Hyphen\obj\Debug\Hyphen.csprojResolveAssemblyReference.cache
